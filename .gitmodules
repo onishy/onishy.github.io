@@ -1,0 +1,3 @@
+[submodule "GetYourDomo"]
+	path = GetYourDomo
+	url = git@github.com:onishy/GetYourDomo.git
